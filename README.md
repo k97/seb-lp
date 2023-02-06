@@ -1,2 +1,2 @@
-# steb-lp
-A simple landing page for stebin.co
+# seb-lp
+A simple landing page for www.stebin.co
